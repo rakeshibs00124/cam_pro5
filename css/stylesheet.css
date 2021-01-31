@@ -1,0 +1,71 @@
+/*commen*/
+
+*{margin: 0px;padding: 0px;font-family: 'Roboto', sans-serif;}
+.clhover:hover{color: #2098d1}
+.slider_front{position: relative;background: #000}
+.header_nav{width: 100%;position: absolute;top: 0px;z-index: 1;}
+.header_nav a img{width: 75%}
+.header_nav .nav-item{padding: 5px 10px;font-size: 16px}
+.header_nav a i{border-radius: 50%;padding: 7px 10px;border: 2px solid #fff;font-size: 18px;}
+.carousel-item{height:600px}
+.carousel-indicators li{border-radius: 50%;height: 15px;width: 15px;flex-wrap: wrap;}
+.carousel-dark .carousel-indicators li {background-color: #fff}
+.carousel-indicators{display: block;margin: 0px;}
+.carousel-indicators_1 {position: absolute;top: 50%;left: 20px !important}
+.carousel-caption{position: absolute;left: 8%; top: 47%	;text-align: left;}
+.carousel-caption h2{font-size: 52px;letter-spacing: 1px}
+.carousel-caption p{font-size: 20px;letter-spacing: 5px;font-weight:300;}
+
+
+.carousel_2{width: 500px;position: absolute;top: 0;right: 0;padding: 0px;z-index: -1}
+
+
+.our_trade{margin:70px 0px}
+.our_trade_map{background-image: url(../images/bg-behind-map.jpg);background-size: 100% 100%;}
+.our_trade_map h2{font-size: 40px;margin-left: 30px;}
+.accordion-body p a{color: #000}																								our_trade_map h2 label{writing-mode: vertical-lr;font-size: 13px}
+.rgbacolor{background-color: rgba(255,255,255,0.90);width: 100%}
+.accordion-collapse{border:none;border-bottom: 1px solid #b4b3b3}
+.accordion-button{border: none;border-top: 2px solid #b4b3b3;}
+.accordion-button1{border-bottom: 2px solid #b4b3b3}
+.accordion-item:last-of-type .accordion-button.collapsed{border-bottom-width: 2px;}
+.accordion-button:not(.collapsed){color: #013766;background: none}
+.accordion-button:focus{border-color: #fff}
+
+
+.real_es{position: relative;}
+.real_es_bgd{width: 80%;background: url(../images/banner31.jpg);background-size: 100% 100%;min-height: 750px}
+.real_es_card{width: 800px;height: 550px;position: absolute;right: 0px;top: 100px;background: #fff}
+.real_es_card h2{margin-left: 120px;margin-top: 80px;padding: 10px 0px;font-size: 40px}
+.real_es_card img{width: 100%}
+.real_es_card button{background: #1d476d;padding: 20px 50px;margin-left: 94px;margin-top: 20px;border: none;}
+.real_es_card button a{font-size: 16px;font-weight: 500;text-decoration: none;}
+
+
+.our_value{padding: 40px 0px}
+.our_value h2{margin: 40px 0px;font-size: 40px}
+.bg_color{background: #f2f3f5}
+.our_value button{background: #1d476d;padding: 20px 50px;border: none;margin: 40px 0px}
+.our_value button a{font-size: 16px;font-weight: 500;text-decoration: none;}
+
+
+.vibrant{margin: 40px 0px}
+.vibrant h2{font-size: 40px}
+.vibrant p{margin-bottom: 35px}
+.vibrant img{width:100%;min-height: 310px;height: 100%}
+
+.location_map{padding-top: 50px}
+
+.footer{background-image: linear-gradient(to right, #042653, #0e376c, #174a86, #1e5ea1, #2372bd);margin-top: -10px }
+.footer .container .row{padding-top: 70px;border-bottom: 1px solid #daecff;padding-bottom: 50px}
+.footer img{width: 80%}
+.ooter p{padding: 20px 0px}
+.footer a{background:#fff;color: #042d59;padding: 3px 15px;margin-right: 20px;font-size: 30px}
+.footer ol, ul{padding-left: 1rem;list-style-type: square;}
+.footer ul li{margin:10px 0px;}
+.footer ul li a{font-size: 16px;background: transparent;color: #fff;text-decoration: none;}
+.connect_with p a{font-size: 16px;background: transparent;color: #fff;padding: 0px;text-decoration: none;}
+.connect_with p a i{margin-right: 10px}
+.disclaimer{padding: 25px 0px}
+.disclaimer a{text-decoration: none;font-size: 16px;background: transparent;color: #fff}
+.disclaimer label{border-right: 2px solid #fff;padding: 0px 20px}
